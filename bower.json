@@ -1,11 +1,11 @@
 {
   "name": "bower-aui",
-  "version": "5.6.5",
+  "version": "5.6.16",
   "homepage": "https://docs.atlassian.com/aui/latest/",
   "description": "Atlassian User Interface",
   "main": [
-    "js/aui-all.js",
-    "css/aui-all.css"
+    "aui/js/aui-all.js",
+    "aui/css/aui-all.css"
   ],
   "keywords": [
     "Atlassian",
